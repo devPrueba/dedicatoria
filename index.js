@@ -31,7 +31,7 @@ if(s===1){
         card.style.transform = 'translateY(-50%) scale(1)';
     }
 
-    if(i<=2){
+    if(i<=3){
         if(i===0)
             card.style.fontSize = "13px";
         else
